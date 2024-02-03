@@ -1,0 +1,48 @@
+:root {
+	/* ------- colors ------- */
+	--primary-color: #27272a;
+	--secondary-color: #65656d;
+	--tertiary-color: #acacb4;
+	--quaternary-color: #e4e4e7;
+	--link-color: #14b8a6;
+	/* ---------------------- */
+
+	/* ------- fonts ------- */
+	--primary-font: "Heebo", sans-serif;
+	--secondary-font: "Roboto", sans-serif;
+	/* --------------------- */
+}
+blockquote{
+	display: flex;
+	flex-direction: column;
+}
+.italic{
+	font-style: italic;
+	font-weight: bold;
+}
+.arab{
+	text-align: end;
+}
+.text-center{
+	text-align: center;
+}
+.image-container{
+	margin-bottom: 20px;
+	z-index: 99999;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.article-image{
+	text-align: center;
+	height: 300px;
+	z-index: 0;
+	margin-bottom: 10px;
+}
+@media (min-width: 1024px) {
+	.article-image {
+		height: 0px;
+	}
+}
+
