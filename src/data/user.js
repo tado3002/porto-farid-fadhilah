@@ -41,7 +41,7 @@ const INFO = {
         "Buku ini menceritakan perjalanan seorang santri tentang proses unutk menjadi dewasa dalam didikan dunia pesantren",
       logo: "./faridImage/buku2.jpeg",
       linkText: "Baca Selengkapnya",
-      link: "https://drive.google.com/file/d/1CsDDzB4Wpf1g2mlSbz6yuo75dD8v88XB/view?usp=drivesdk",
+      link: "https://drive.google.com/file/d/1NvO6wxy6aUMTXOfQeuch99KQiI_vw1vt/view?usp=drivesdk"
     },
 
     {
